@@ -1,4 +1,6 @@
-name = "v20250807"
+# wrangler.toml
+name = 'workers-up'
 main = "_worker.js"
 compatibility_date = "2025-08-07"
+
 keep_vars = true
